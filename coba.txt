@@ -1,0 +1,17 @@
+|   Selamat datang di Rental PC dan Printer	|
+|  	      Amanah Jaya Abadi			|
+|						|
+|Ketentuan		:			|
+|1. Melayani		:			|
+|  - Rental PC					|
+|  - Rental Printer				|
+|2. Rental PC		: Rp. 1500/Jam		|
+|3. Rental Printer	:			|
+|  - Kertas Sendiri	: 100 / Lembar		|
+|  - Kertas Toko	: 200 / Lembar		|
+|4. Diskon		:			|
+|  - Rp.15000 - Rp.19000	: 10 %		|
+|  - Rp.20000 - Rp.29000	: 15 %		|
+|  - Rp.30000 - Rp.39000	: 20 %		|
+|  - Rp.40000 - Rp.49000	: 25 %		|
+|  - Rp.50000 Keatas		: 30 %		|
